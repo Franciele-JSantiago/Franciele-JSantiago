@@ -8,7 +8,7 @@ Sei que estou em um caminho que me exige constante aprendizado, e me sinto feliz
 
 
 
- <h2>Como Falar Comigo?</h2>
+ <h2>Como Falar Comigo:</h2>
   <ul>
     <li> <img src="icone-instagram.png" alt="icone do Instagram"> <a
         href="http://instagram.com/fran.devcoder?igshid=NGExMmI2TkyZg==" target="_blank"
@@ -19,13 +19,28 @@ Sei que estou em um caminho que me exige constante aprendizado, e me sinto feliz
   </ul>
 
  <h2>Tecnologias:</h2> 
-  <img src="1499794874html5-js-css3-logo-png.png">
+  <img src="1499794874html5-js-css3-logo-png.png" width="200px"/>
 
 
-   <h2>Status GitHub::</h2>
+   <h2>Status GitHub:</h2>
 
- - ![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-JSantiago&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-JSantiago&theme=tokyonight&show_progress=true)
+  ![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-JSantiago&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-JSantiago&theme=tokyonight&show_progress=true)
 
 
 
- - ![](https://komarev.com/ghpvc/?username=Franciele-JSantiago)
+  ![](https://komarev.com/ghpvc/?username=Franciele-JSantiago)
+
+   <h2>Alguns dos meus trabalhos:</h2> 
+
+   Site de Contabilidade
+
+
+Acesse o site em: https://franciele-jsantiago.github.io/Site-Contabilidade/
+
+   Site do Mario Bross
+
+
+Acesse o site em: https://franciele-jsantiago.github.io/Site-mario/
+
+
+   
