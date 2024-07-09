@@ -6,18 +6,14 @@ Meu nome é Franciele J. Santiago, estou trabalhando focada em uma transição d
   <ul>
     <li> <img src="icone-instagram.png" alt="icone do Instagram"> <a
         href="http://instagram.com/fran.devcoder?igshid=NGExMmI2TkyZg==" target="_blank"
-        rel="External">/Fran.Devcoder</a> - Me segue lá no Instagram</li>
+        rel="External">Fran.Devcoder</a> - Me segue lá no Instagram</li>
     <li> <img src="icone-linkedin.png" alt="icone do linkedin"> <a
         href="https://www.linkedin.com/in/franciele-juchem-santiago-9ba56a264/" target="_blank" rel="external">
-        /Franciele-juchem-santiago</a> </a> - Me adiciona lá no Linkedin</li>
+        Franciele-juchem-santiago</a> </a> - Me adiciona lá no Linkedin</li>
   </ul>
 
   Tecnologias
- - HTML5
- - CSS3
-- JAVASCRIPT
- - LÓGICA
- - GIT
+  <img src="Logotipo Html5 Js Css3 Png">
   
 
  - ![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-JSantiago&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-JSantiago&theme=tokyonight&show_progress=true)
