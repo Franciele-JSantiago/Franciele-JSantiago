@@ -1,6 +1,12 @@
 ## Oi Galera! 👋
 
-Meu nome é Franciele J. Santiago, estou trabalhando focada em uma transição de carreira; sou aprendiz de programação, iniciei por lógica de programação e atualmente estou em  Java Script. Como vou chegar lá, são algumas das perguntas que já recebi! Não se trata de como, e sim de quando, porque a cada dia, a cada aula, a cada módulo,estou cada vez mais perto!
+Meu nome é Franciele J. Santiago,  apaixonada por tecnologia e  focada em uma transição de carreira; sou estudante de programação, iniciei por lógica de programação, versionamento e atualmente estou em  Java Script.
+
+Acredito que um bom relacionamento tanto no trabalho, como na vida é construído com comunicação aberta, respeito, confiança e esforço.
+Sei que estou em um caminho que me exige constante aprendizado, e me sinto feliz com isso.
+
+
+
 
  <h2>Como Falar Comigo?</h2>
   <ul>
@@ -12,9 +18,11 @@ Meu nome é Franciele J. Santiago, estou trabalhando focada em uma transição d
         Franciele-juchem-santiago</a> </a> - Me adiciona lá no Linkedin</li>
   </ul>
 
-  Tecnologias
-  <img src="1499794874html5-js-css3-logotipo-png.png">
-  
+ <h2>Tecnologias:</h2> 
+  <img src="1499794874html5-js-css3-logo-png.png">
+
+
+   <h2>Status GitHub::</h2>
 
  - ![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciele-JSantiago&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciele-JSantiago&theme=tokyonight&show_progress=true)
 
